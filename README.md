@@ -6,6 +6,6 @@ Personally i'm a huge fan of clean designs, but, as you know that depends on the
 
 To check my visuals --->[Power Dashboards](https://app.powerbi.com/groups/b5bb40b4-d082-4951-be9d-5082f5c9db44/list)
 
-I like to follow the guidelines from the book StoryTelling With Data, it's REALLY good, clean, simple and easy to follow, you can get it here---> [Storytelling](https://www.storytellingwithdata.com/)
+I like to follow the guidelines from the book [StoryTelling With Data](https://www.storytellingwithdata.com/), it's REALLY good, clean, simple and easy to follow.
 
 
